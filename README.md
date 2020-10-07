@@ -8,7 +8,7 @@ Amrita Code hour contest Solutions and Resources
 
 2. Add the problems in any language by creating a folder for the Contest  (if it does not exist) eg. Contest1/
 
-3. Add the problems in any language by creating a folder for the Color (if it does not exist) eg. Orange/
+3. Add the problems in any language by creating a folder for the Color (if it does not exist) eg. Red/
 
 4. Name the file by taking the unique ID of the problem from Hackerrank which can be fetched from the URL for eg. https://www.hackerrank.com/contests/(contest-name)/challenges/(problem-id) eg. For the problem [print-the-elements-of-a-linked-list-in-reverse](https://www.hackerrank.com/contests/oa2021o2/challenges/print-the-elements-of-a-linked-list-in-reverse) name it as print-the-elements-of-a-linked-list-in-reverse.file-extension
 
