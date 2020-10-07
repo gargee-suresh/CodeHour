@@ -1,7 +1,4 @@
 # CodeHour ![](https://komarev.com/ghpvc/?username=gargeesuresh&label=veiws&color=blue)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 
 Amrita Code hour contest Solutions and Resources
 
@@ -35,7 +32,7 @@ Amrita Code hour contest Solutions and Resources
 * [Green](https://www.hackerrank.com/oa2021g2)
 
 ## Other Resources
-* [CSE google sheet](http://bit.ly/2018s5csea)
+
 * [C-programming fundamentals](https://docs.google.com/spreadsheets/d/1yWOMD69iuN12hlUgEL5z_d8hMldM5cvHIbcsnbLq3qQ/edit?usp=sharing)
 * [what are test cases](https://docs.google.com/spreadsheets/d/1Vqri9whxbAg9Uz1iA0MRQ-5UApN6B1t3bORArDPPnhs/edit?usp=sharing)
 * [Pointers](https://docs.google.com/spreadsheets/d/1O3oNMpSI9iMRJR7_L9FxGv_4qN5UG7kSWtjdh3GnAyM/edit?usp=sharing)
