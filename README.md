@@ -14,7 +14,7 @@ Amrita Code hour contest Solutions and Resources
 
 5. Make sure that the solution you post works for all test cases.
 
-6. Raise a pull request and wait for the code to be merged :) 
+6. Raise a pull request and wait for the code to be merged ^_^
 
 
 ## Contest Links
