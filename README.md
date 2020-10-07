@@ -1,4 +1,4 @@
-# CodeHour ![](https://komarev.com/ghpvc/?username=gargeesuresh&label=veiws&color=blue)
+# CodeHour ![](https://komarev.com/ghpvc/?username=gargeesuresh&label=veiws&color=pink)
 
 Amrita Code hour contest Solutions and Resources
 
